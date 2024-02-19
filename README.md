@@ -2,7 +2,10 @@
 
 <p align="left">
 <a href="https://github.com/handikurniawan1">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=handikurniawan1&show_icons=true&theme=radical)
+
+## Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=handikurniawan1&layout=compact&theme=radical)
 </a>
 </p>
