@@ -8,4 +8,4 @@
 
 ## Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=handikurniawan1&layout=compact)](https://github.com/handikurniawan1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=handikurniawan1&layout=compact&hide=ShaderLab)](https://github.com/handikurniawan1)
