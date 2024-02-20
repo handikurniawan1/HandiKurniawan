@@ -7,6 +7,6 @@
 
 ## Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=handikurniawan1&layout=compact&exclude_repo=Zombie-Apocalypse,Olale-Soccer-Online,Surviv,obstacle-stumble-guys)](https://github.com/handikurniawan1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=handikurniawan1&layout=compact&hide=ShaderLab)](https://github.com/handikurniawan1)
 </a>
 </p>
